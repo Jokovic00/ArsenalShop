@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.2.2"
+  },
+  "dependencies": {
+    "vuetify": "^3.11.6"
+  }
+}
